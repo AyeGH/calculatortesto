@@ -34,20 +34,20 @@ body{
 .container{
     background:white;
     padding:50px;
-    width:500px;              /* increased from 350px */
+    width:500px;
     border-radius:10px;
     text-align:center;
     box-shadow:0 10px 25px rgba(0,0,0,0.08);
 }
 
 h1{
-    font-size:30px;           /* bigger title */
+    font-size:30px;
     margin-bottom:25px;
 }
 
 input{
     width:100%;
-    padding:12px;             /* bigger input */
+    padding:12px;
     font-size:16px;
     margin-bottom:15px;
     border:1px solid #ccc;
